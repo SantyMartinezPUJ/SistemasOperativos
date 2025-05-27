@@ -1,0 +1,14 @@
+Operating Systems,2233,3
+1,D,10-05-2025
+2,P,09-05-2025
+3,D,10-05-2025
+Data Structures,3001,2
+1,D,10-05-2025
+2,D,10-05-2025
+Artificial Intelligence,4444,1
+1,P,08-05-2025
+Databases,5555,1
+1,D,10-05-2025
+Networking,6666,2
+1,D,10-05-2025
+2,P,10-05-2025

@@ -1,0 +1,10 @@
+P,Operating Systems,2233
+P,Artificial Intelligence,4444
+P,No Existe,9999
+D,Artificial Intelligence,4444
+R,Operating Systems,2233
+P,Databases,5555
+P,Databases,5555
+D,Databases,5555
+R,Databases,5555
+Q,Salir,0
